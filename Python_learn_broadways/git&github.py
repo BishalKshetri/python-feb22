@@ -1,4 +1,5 @@
 # ==========================================================
+# DAY 8
 # 12/03/2026
 # Git and GitHub Notes - Detailed Terminal Workflow
 # ==========================================================
@@ -337,3 +338,46 @@ git reset --soft HEAD~1
 # Once basics are mastered, learn:
 # rebase, cherry-pick, tags, pull requests
 # to make workflow more professional.
+
+
+# DAY 8 : 13/3/2026
+
+# ======================================
+
+# PROCESS: CREATE FILE → PUSH TO BRANCH
+
+# ======================================
+
+# 1. Create a python file
+
+# Example:
+
+# bishal.py
+
+# 2. Check git status
+
+# git status
+
+# 3. Create and switch to a new branch
+
+# git checkout -b branch-name
+
+# 4. Add the file to git
+
+# git add bishal.py
+
+# or
+
+# git add .
+
+# 5. Commit the file
+
+# git commit -m "Added bishal.py file"
+
+# 6. Push the branch to GitHub
+
+# git push origin branch-name
+
+# 7. Verify branch on GitHub repository
+
+
